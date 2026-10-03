@@ -4,5 +4,13 @@
     "error_count": 3,
     "skipped_count": 0,
     "sample_warnings": []
+  },
+  "2026-10-03": {
+    "warning_count": 0,
+    "error_count": 3,
+    "skipped_count": 0,
+    "sample_warnings": [],
+    "failure_type": "UNKNOWN",
+    "error_summary": "    report = do_update(args, other, juris) "
   }
 }
